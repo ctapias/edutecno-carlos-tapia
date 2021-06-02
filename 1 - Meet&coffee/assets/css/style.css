@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    color: #000f08;
+}
+
+
+.oscuro{
+    background: #000f08;
+    color:#fff;
+    font-family: 'open sans', 'arial', 'helvetica';
+    padding: 28px;
+    padding-left: 127px;
+}
+
+.oscuro a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.sweet-brown{
+    background:#a4452c;
+    text-align: left;
+    color: #fff;
+    margin: 50px;
+    border: 5px dashed blue;
+}
+
+.hero-section{
+    text-align: right;
+    background-image: url(../img/bg-hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.icono{
+    fill:#fff;
+    width: 44px;
+    height: 44px;
+}
+
+
+
+.eventos{
+    font-family: 'open sans', 'arial', 'helvetica';
+}
+
+section{
+    font-family: 'open sans', 'arial', 'helvetica';
+}

@@ -1,0 +1,82 @@
+body * {
+    margin: 0; padding: 0; border: 0;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 100%;
+}
+
+.navbar-brand{
+    padding-left: 119px;
+}
+
+.navbar-nav{
+    color:#FFFFFF !important; padding-right: 118px;
+}
+
+h1{
+    font-weight: 700; color: #707070; padding-top: 64px; padding-bottom: 33px; text-align: center; font-size: 3.75rem;
+}
+
+.productos{
+    display: inline-block; text-align: center; 
+}
+
+@media (min-width: 768px) {
+    .productos{
+        padding-bottom: 74px;
+    }
+    footer{
+        padding-top: 30px; padding-bottom: 53.55px;
+    }
+}
+
+@media (max-width: 767px) {
+    .productos{
+        padding-bottom: 5px;
+    }
+    section{
+        display:none;
+    }
+    footer{
+        padding-top: 58px; padding-bottom: 58px;
+    }
+}
+
+article{
+    display: inline-block; padding: 44px; text-align: initial;
+}
+
+.card-title{
+    font-weight: 700;
+}
+
+.card-text{
+    max-height: 3rem; overflow: hidden; font-size: 1rem;
+}
+
+.list-group-item, .card-link{
+    font-size: 68.75%;
+}
+
+.tarjetas{
+    display: inline-block; background-color: #17A2B8; color: #fff; font-weight: 700; text-align: center; width: 100%; padding: 58px;
+}
+
+#txt{
+    font-size: 2.5rem; vertical-align: middle; padding-right: 3.75rem;
+}
+
+.tarjetas .fab{
+    font-size: 4rem; letter-spacing: 1.75rem; vertical-align: middle;
+}
+
+footer{
+    background-color: #E83E8C; text-align: center;
+}
+
+#suri-foot{
+    width: 53px; height: 100px;
+}

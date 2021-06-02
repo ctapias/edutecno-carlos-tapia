@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto', sans-serif; font-weight: 300;
+}
+
+.navbar{
+    background-color: #28A745 !important;
+}
+
+.ofertas{display: inline-block; text-align: center; padding-top: 3px; padding-bottom: 32px;}
+.card{display:inline-block; margin: 15px; text-align: initial;}
+#Proveedor{color: #707070;}
+.direccion{font-size: 0.8125rem;}
+.oferta{color: #28A745; font-weight: 500;}
+
+.cointainer-fluid{background-color: #28A745; text-align: center; color: #fff; font-size: 1.3125rem; font-weight: 500;}

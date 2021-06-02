@@ -1,0 +1,19 @@
+header{
+    margin-top: 1rem;
+}
+
+h1{
+    display: inline;
+    margin-right: 30%;
+}
+
+.photo{
+    height: 50px; 
+    width: 135px;
+    display: inline;
+    margin-left: 30%;
+}
+
+.estudiante thead th{
+    padding-right: 150px;
+}

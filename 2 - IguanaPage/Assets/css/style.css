@@ -1,0 +1,108 @@
+body * {
+    margin: 0; padding: 0; border: 0;
+}
+
+body{
+    background-color: #000;
+    color:#FFF;
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+}
+
+header {     
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    }
+
+#iguana-txt{
+    padding:7px;
+}
+
+#Big-iguana{
+    width: 100%;
+}
+
+.iguana-1, .desc, .caracteristica{
+    display: inline-block;
+}
+
+.descripcion{
+    text-align: center;
+}
+
+.iguana-1{
+    text-align: right;
+    vertical-align: middle;
+    padding-right: 11.72%;
+    padding-left: 4.375%;
+}   
+
+.iguana-1 img{
+    width: 399px;
+    height: 237px;
+    padding-top: 45px;
+    padding-bottom: 66px;
+}   
+
+.desc{
+    text-align: left;
+    vertical-align: middle;
+    width: 475px;
+    padding-top: 75px;
+    padding-left: 11.72%;
+    padding-right: 4.375%;
+    padding-bottom: 76px;
+}
+
+#caracteristicas{
+    background-color: #1E1A13;
+    text-align: center;
+}
+
+#caracteristicas h2{
+    text-transform: uppercase;
+    font-weight: 500;
+    padding-top: 75px;
+    padding-bottom: 50px;
+}
+
+.fas, .far{
+    font-size: 3em;
+} 
+
+.caracteristica{
+    width: 18%;
+    padding-bottom: 74px;
+    color: #FFF;
+}
+
+.caracteristica p{
+    padding-top: 16px;
+}
+
+.carrusel{
+    padding-top: 73px;
+    padding-bottom: 73px;
+    text-align: center;
+    }
+
+.carrusel-a{
+    display: inline-block;
+    padding-left: 1.6%;
+    padding-right: 1.6%;
+    width: 316px;
+    height: 202px;
+}
+
+footer{
+    background-color: #1E1A13;
+    padding: 39px;
+    text-align: center;
+    font-weight: 300;
+}
+
+footer a{
+    color:#ffffff;
+    text-decoration: none;
+}
